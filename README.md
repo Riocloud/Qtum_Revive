@@ -18,4 +18,4 @@ By transacting and settling off-blockchain, the Revive Network allows for except
 
 Based on this Paper
 
-[Revive: Rebalancing O-Blockchain Payment Networks](https://eprint.iacr.org/2017/823.pdf)
+[Revive: Rebalancing Off-Chain Blockchain Payment Networks](https://eprint.iacr.org/2017/823.pdf)
