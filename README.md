@@ -3,7 +3,8 @@ Add Revive network as an off-chain solution to the [Qtum](https://github.com/qtu
 
 Changing the cryptocurrencies transcation problems by reblancing. 
 Offering a safe way to mitigate some of the possible
-skewness that may arise in a payment network.
+skewness that may arise in a payment network. 
+Safer than Lighting Network.
 
 1. Instant Payments.  
 Lightning-fast blockchain payments without worrying about block confirmation times. Security is enforced by blockchain smart-contracts without creating a on-blockchain transaction for individual payments. Payment speed measured in milliseconds to seconds.
