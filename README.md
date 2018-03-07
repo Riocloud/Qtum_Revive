@@ -14,7 +14,7 @@ Capable of millions to billions of transactions per second across the network. C
 3. Low Cost.  
 By transacting and settling off-blockchain, the Revive Network allows for exceptionally low fees, which allows for emerging use cases such as instant micropayments.
 4. Atomic Enforceability. 
- When using Revive to improve the routing of future payments within a network, the optimal solution under such a denition would therefore be one that eliminates the most skewness in the network where possible.
+ When using Revive to improve the routing of future payments within a network, the optimal solution under such a denition would therefore be one that eliminates the most skewness in the network where possible.
 
 Based on this Paper
 
